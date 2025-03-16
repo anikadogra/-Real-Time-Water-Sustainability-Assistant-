@@ -1,4 +1,4 @@
-# -Real-Time-Water-Sustainability-Assistant-
+# Real Time Water Sustainability Assistant
 
 This project is a **simple water usage monitoring tool** that analyzes daily water consumption data from a CSV file. It detects **anomalies (sudden spikes in usage)** and visualizes the data in an interactive web dashboard using **Streamlit**.
 
